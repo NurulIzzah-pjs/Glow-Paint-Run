@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+Thanks for soectating this project!
 
-Template Name: iLanding
+Template Name: Glow Paint Run
 Template URL: https://bootstrapmade.com/ilanding-bootstrap-landing-page-template/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
