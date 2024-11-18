@@ -1768,7 +1768,7 @@ section,
 # Payment Section
 --------------------------------------------------------------*/
 .Payment-bg {
-  background: url('Glow-Paint-Run/assets/img/paymentbg.png') no-repeat center center;
+  background: url('/assets/img/paymentbg.png') no-repeat center center;
   background-size: cover; /* Ensures the image covers the section without distortion */
   background-attachment: fixed; /* Keeps the image stationary while scrolling */
   padding: 50px 0;
